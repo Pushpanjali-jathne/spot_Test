@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="video_text">VIDEOS</string>
+    <string name="image_text">IMAGES</string>
+    <string name="milestone_text">MILESTONE</string>
+    <string name="heading">EMPTINESS FT. JUSTIN TIBLEKAR</string>
+    <string name="time">18 HOURS AGO</string>
+    <string name="content">Lorem Ipsum is dummy text of the printing and typesetting industry.</string>
+</resources>
